@@ -17,4 +17,7 @@ Steps to Configure the project to your local system to send e-mails to all your 
     - Sno : Enter the serial number starting from 1 for each entry.
     - Name : Enter the Name of the person 
     - Birthday : Enter the person's birthday in DD-MM-YYYY format. The spreadsheet will format it as required.
+    - Dialog : Enter the message you want to send to the person.
+    - Year : Leave empty while creating a new entry.
+    - Email_To : Enter the email_id of the person.
 3. Close the dates.xlsx file and run the python program
