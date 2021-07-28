@@ -1,3 +1,5 @@
+#Automatic Birthday Wisher
+
 Steps to Configure the project to your local system to send e-mails to all your friends on their Birthday.
 
 1. Enter your Gmail ID and Gmail Password in the top section in the designated space in the python file at the top.
