@@ -1,4 +1,4 @@
-#Automatic Birthday Wisher
+# Automatic Birthday Wisher
 
 Steps to Configure the project to your local system to send e-mails to all your friends on their Birthday.
 
