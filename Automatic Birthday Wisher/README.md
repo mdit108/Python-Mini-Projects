@@ -13,6 +13,12 @@ pip install pandas
 Steps to Configure the project to your local system to send e-mails to all your friends on their Birthday.
 
 1. Enter your Gmail ID and Gmail Password in the top section in the designated space in the python file at the top.
+    ```Python
+    # Enter your authentication details
+GMAIL_ID = ""
+GMAIL_PSWD = ""
+```
+
 2. Enter details of the friends you want to send emails to in the dates.xlsx file. 
     - Sno : Enter the serial number starting from 1 for each entry.
     - Name : Enter the Name of the person 
