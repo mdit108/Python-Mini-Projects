@@ -28,7 +28,7 @@ if __name__ == "__main__":
         msg = "hello"
         if today == bday and yearNow not in str(item["Year"]):
             sendEmail(
-                item["Email"], "Happy Birthday" + " " + item["Name"], item["Dialog"]
+                item["Email_To"], "Happy Birthday" + " " + item["Name"], item["Dialog"]
             )
             writeInd.append(index)
     for i in writeInd:
